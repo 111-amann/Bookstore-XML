@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="bookstore.xsl"?>
+<bookstore>
+    <book>
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>    
+        <price>299.50</price>
+        <genre>Fiction</genre>
+    </book>
+    <book>
+        <title>Clean Code</title>
+        <author>Robert C. Martin</author>
+        <price>499.00</price>
+        <genre>Programming</genre>
+    </book>
+    <book>
+        <title>1984</title>
+        <author>George Orwell</author>
+        <price>350.00</price>
+        <genre>Dystopian</genre>
+    </book>
+    <book>
+        <title>Atomic Habits</title>
+        <author>James Clear</author>
+        <price>420.75</price>
+        <genre>Self-Help</genre>
+    </book>
+    <book>
+        <title>Harry Potter and the Sorcerer's Stone</title>
+        <author>J.K. Rowling</author>
+        <price>599.99</price>
+        <genre>Fantasy</genre>
+    </book>
+    <book>
+        <title>To Kill a Mockingbird</title>
+        <author>Harper Lee</author>
+        <price>315.25</price>
+        <genre>Classic</genre>
+    </book>
+    <book>
+        <title>The Pragmatic Programmer</title>
+        <author>Andrew Hunt and David Thomas</author>
+        <price>550.00</price>
+        <genre>Programming</genre>
+    </book>
+    <book>
+        <title>Rich Dad Poor Dad</title>
+        <author>Robert T. Kiyosaki</author>
+        <price>275.00</price>
+        <genre>Finance</genre>
+    </book> 
+</bookstore>
